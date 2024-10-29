@@ -23,4 +23,4 @@ This is a basic JavaScript training. It is not a comprehensive JavaScript traini
 
 ## Exercises
 
-Each exercise can be found in the `exercises` folder. Each exercise has a `README.md` file that explains the exercise and the steps to complete it.
+Each exercise can be found in the `exercise-XX` folders. Each exercise has a `README.md` file that explains the exercise and the steps to complete it.
