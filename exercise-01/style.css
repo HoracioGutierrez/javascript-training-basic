@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: system-ui;
+}
+
+body {
+  display: grid;
+  min-height: 100vh;
+  place-items: center;
+  background-color: #f5f5f5;
+}
+
+h1 {
+  font-size: clamp(1.5rem, 4vw, 4rem);
+}
